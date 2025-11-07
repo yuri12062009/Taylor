@@ -1,0 +1,51 @@
+header{
+  background-color: azure;
+  padding: 10px;
+}
+h1{
+  background-color: lightpink;
+  padding: 30px;
+  font-family: Times New Roman;
+  border-radius: 5px;
+  color: 	#363636;
+}
+h3{
+  background-color: snow;
+  margin: 6px;
+  border-radius: 6px;
+  font-size: 17px;
+  font-family: courier New;
+}
+h2{
+  margin: 10px;
+  padding: 20px;
+  background-color: lightslategrey;
+  border-radius: 8px;
+  font-family: Times New Roman;
+  color: #363636;
+}
+p{
+  margin: 10px;
+  padding: 20px;
+  background-color: azure;
+}
+input{
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+  font-size: 17px;
+}
+li{
+  font-size: 25px;
+}
+#a{
+  float: inline-start;
+}
+button{
+  margin: 10px 10px 10px 40px;
+  padding: 10px;
+  font-size: 10px;
+}
+#cinne{
+  padding: 10px 20px 10px 96px;
+}
